@@ -21,4 +21,4 @@ app.get('/', (req, res) => {
 // LISTEN
 app.listen(PORT, () => {
   console.log('Greetings! From port: ', PORT);
-})
+}) 
